@@ -3,7 +3,7 @@
 Репозиторій з проєктами за період навчання
 
 - 2024 рік
-  - [SolidWorks проста 4 нога платформа](https://github.com/Bogd-an/SimpleStepperRobot/SW)
+  - [SolidWorks проста 4 нога платформа](https://github.com/Bogd-an/SimpleStepperRobot/tree/main/SW)
   - [Fusion360 простий робокіт](https://github.com/Bogd-an/SimpleStepperRobot)
   - [C STM32](https://github.com/Bogd-an/stm32_practical)
   - [C++ Базові алгоритми](https://github.com/Bogd-an/progAlg)
