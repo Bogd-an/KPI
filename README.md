@@ -14,4 +14,4 @@
   - [Java backend ПЗ для системи управління з/д перевезеннями](https://github.com/Bogd-an/sdt_practical_1)
   - [Java back+front tg Курсова робота для замовлення послуг перукарні](https://github.com/Bogd-an/centrifuge) 
 
-- [Мінімалістичний py tg бот ](https://github.com/Bogd-an/kpi_schedule)
+- [Мінімалістичний py tg бот розкладу КПІ](https://github.com/Bogd-an/kpi_schedule)
