@@ -3,7 +3,7 @@
 Репозиторій з проєктами за період навчання
 
 - 2024 рік
-  - [Мережеві технології](https://github.com/Bogd-an/NetTech)
+  - [Проектування систем автоматизації	](https://github.com/Bogd-an/psa)
   - [Реляційні системи управління базами даних](https://github.com/Bogd-an/relationalDB)
   - [Диплом КПК](https://github.com/Bogd-an/Diplom)
   - [SolidWorks проста 4 нога платформа](https://github.com/Bogd-an/SimpleStepperRobot/tree/main/SW)
