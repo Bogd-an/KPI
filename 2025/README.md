@@ -1,0 +1,2 @@
+- [Цифрова обробка сигналів та зображень](https://github.com/Bogd-an/di-sp)
+- [Робототехніка та інтелектуальні системи](https://github.com/Bogd-an/rt_is)
